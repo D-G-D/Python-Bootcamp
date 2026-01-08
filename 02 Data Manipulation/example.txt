@@ -1,1 +1,3 @@
-Hello there! I hope you are enjoying learning Python!
+Hello there!
+I hope you are enjoying learning Python.
+Ok, good bye now!
