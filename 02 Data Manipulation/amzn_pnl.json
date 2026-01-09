@@ -1,0 +1,23 @@
+{
+	"company": "AMZN",
+	"pnl": [
+		{
+			"year": 2023,
+			"total_revenue": 574.79,
+			"cost_of_revenue": 326.29,
+			"gross_profit": 270.05,
+			"operating_income": 68.59,
+			"pretax_income": 68.61,
+			"net_income": 59.25
+		},
+		{
+			"year": 2024,
+			"total_revenue": 691.30,
+			"cost_of_revenue": 345.30,
+    			"gross_profit": 345.98,
+			"operating_income": 76.20,
+			"pretax_income": 93.06,
+			"net_income": 76.48
+		}
+	]
+}
