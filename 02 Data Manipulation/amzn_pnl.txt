@@ -1,0 +1,13 @@
+P&L Summary for AMZN (USD billions)
+
+Year 2024
+Total Revenue:         637.96
+Cost of Revenue:       326.29
+Gross Profit:          311.67
+EBITDA:                123.82
+
+Year 2023
+Total Revenue:         574.79
+Cost of Revenue:       304.74
+Gross Profit:          270.05
+EBITDA:                 89.40
