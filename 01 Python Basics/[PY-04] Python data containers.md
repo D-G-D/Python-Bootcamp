@@ -138,7 +138,7 @@ In [19]: myrange = range(0, 10, 2)
 Out[19]: [0, 2, 4, 6, 8]
 ```
 
-Note that the terms of a range cannot printed directly. So, we have converted the range to a list here with the function `list()`. If, in the specification of a range, a value for the parameter `step` is not provided, it is assumed `step=1`.
+Note that the terms of a range cannot be printed directly. So, we have converted the range to a list here with the function `list()`. If, in the specification of a range, a value for the parameter `step` is not provided, it is assumed `step=1`.
 
 ```
 In [20]: list(range(5, 12))
